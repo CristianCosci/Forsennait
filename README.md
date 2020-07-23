@@ -13,3 +13,11 @@ There will be further explanations during the gameplay.
 
 Thanks for all, and enjoy!
 (tell me if you will encounter some bugs)
+
+ISTRUCTION FOR START GAME:
+1- download all the zip folder
+2-extract it
+3-open a terminal in the folder and do the following istruction from terminal:
+  3.1- make
+  3.2- ./forsennait (and now the game will start)
+4-if you want to remove the executable file write : make clean (from terminal)
